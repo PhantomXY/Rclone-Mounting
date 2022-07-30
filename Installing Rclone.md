@@ -4,15 +4,13 @@
 >It should look something like this:
  * <img src=assets/asset2.png>
 
-
-
 >Type rclone config into cmd:
  * <img src=assets/asset3.png>
 
 >Choose a name for your remote drive and select the type of drive you are trying to install:
  * <img src=assets/asset4.png>
 
->Press enter to leave unnessery things empty:
+>Press enter to leave unnecessary things empty:
  * <img src=assets/asset5.png>
 
 >Your browser will open for you to conenct the account of the drive you are trying to make:
