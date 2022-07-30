@@ -16,7 +16,7 @@ Mount the remote to the designated drive letter:
 >
 >* Replace ***"X X X"*** with your created remote name *(eg. Drive or "Google Drive")*, then Replace ***X:*** with your desired Drive letter *(eg. D:)*.
 >
->* *Do **NOT** Remove Quotation Marks if your created remote contains spaces*.
+>* *Do **NOT** Remove Quotation Marks if your created remote drive contains spaces*.
 	
 	rclone mount --vfs-cache-mode full "X X X": X:
 
@@ -29,9 +29,9 @@ Don't forget to place the .bat File in the same location as the rclone.exe
 
 ---
 
-### * should look something like this 
+Should look something like this:
 
   >@echo off
   >cd C:\rclone\
-  >rclone mount --vfs-cache-mode full "Your Remote Here": X:
+  >rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" X:
   >pause
