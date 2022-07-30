@@ -30,6 +30,6 @@
 ---
 
 >Should look something like this:
- * <img src=assets/asset1.png>
+ * <img src=assets/asset12.png>
 
 ---
