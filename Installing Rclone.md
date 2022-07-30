@@ -27,7 +27,7 @@
 >You can now type in q and you've successfully created your rclone drive:
  * <img src=assets/asset9.png>
 
->To start your rclone drive you type in :rclone mount --vfs-cache-mode full ":/" i:
+>To start your rclone drive you type in :rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" i:
  * <img src=assets/asset10.png>
 
 >After mounting your drive it will show up under This Pc:
