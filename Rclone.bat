@@ -35,3 +35,7 @@
   >cd C:\rclone\
   >rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" X:
   >pause
+---
+
+ * Test
+ >wow
