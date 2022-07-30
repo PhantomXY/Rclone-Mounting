@@ -13,7 +13,7 @@ When you are done using your Storage System, you may safely close the command pr
 
 * WinFSP: https://github.com/billziss-gh/winfsp/releases/ (the Latest Release is reccomended).
 
-## [The .bat File](The .bat File)
+## [The .bat File](https://github.com/PhantomXY/Rclone-Mounting/blob/main/The%20.bat%20File)
 
 
 ## How to use/install Rclone
