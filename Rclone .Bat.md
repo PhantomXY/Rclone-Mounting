@@ -31,8 +31,8 @@
 
 * Should look something like this:
 
-  >@echo off
-  >cd C:\rclone\
-  >rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" X:
-  >pause
+  >*@echo off*
+  >*cd C:\rclone\*
+  >*rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" X:*
+  >*pause*
 ---
