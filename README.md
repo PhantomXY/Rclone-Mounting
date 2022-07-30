@@ -12,7 +12,7 @@ When you are done using your Storage System, you may safely close the command pr
 * WinFSP: https://github.com/billziss-gh/winfsp/releases/ (the Latest Release is reccomended).
 
 
-## [Rclone Installation .bat](https://github.com/PhantomXY/Rclone-Mounting/blob/main/Rclone.Bat.md)
+## [Rclone Installation .bat](https://github.com/PhantomXY/Rclone-Mounting/blob/main/Rclone%20.Bat.md)
 * Guide to creating an automatic .bat that starts your Rclone Remote Drive
 
 
