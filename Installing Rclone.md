@@ -31,4 +31,7 @@
 >After mounting your drive it will show up under This Pc:
  * <img src=assets/asset11.png>
 
-(note that when you close cmd the drive will close as well)
+---
+⚠(note that when you close cmd the drive will close as well.)
+
+---
