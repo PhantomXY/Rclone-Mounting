@@ -1,17 +1,17 @@
 
-* ## The .bat File
+ * ## The .bat File
 
-* Toggle viewing input commands (Optional):
+ * Toggle viewing input commands (Optional):
   >* *on/off*.
 	
 	@echo off	
 
-* Change directory to rclone folder: 
+ * Change directory to rclone folder: 
   >* *Coordinates to the folder containing "rclone.exe"*
 	
 	cd C:\your\directory\here\
 
-* Mount the remote to the designated drive letter: 
+ * Mount the remote to the designated drive letter: 
   >* *Remotes are created through running "[rclone config](https://rclone.org/commands/rclone_config/)"*.
   >
   >* Replace ***"X X X"*** with your created remote name *(eg. Drive or "Google Drive")*, then Replace ***X:*** with your desired Drive letter *(eg. D:)*.
@@ -20,7 +20,7 @@
 	
 	rclone mount --vfs-cache-mode full "X X X": X:
 
-* Enable the "Press any key to continue..." prompt: 
+ * Enable the "Press any key to continue..." prompt: 
   >* *Should only really show up when an error is given*.
 	
 	pause
@@ -29,7 +29,7 @@
 
 ---
 
-* Should look something like this:
+ * Should look something like this:
 
   >@echo off
   >cd C:\rclone\
