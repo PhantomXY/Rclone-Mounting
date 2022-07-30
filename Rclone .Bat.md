@@ -29,10 +29,7 @@
 
 ---
 
-* Should look something like this:
+>Should look something like this:
+ * <img src=assets/asset1.png>
 
-  >* *@echo off*
-  >* *cd C:\rclone\*
-  >* *rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" X:*
-  >* *pause*
 ---
