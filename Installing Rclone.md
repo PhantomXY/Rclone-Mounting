@@ -1,4 +1,4 @@
->Place Rclone in the disired location and type cmd in the dirrectory:
+>Place Rclone in the desired location and type cmd in the directory:
  * <img src=assets/asset1.png>
 
 >It should look something like this:
@@ -13,10 +13,10 @@
 >Press enter to leave unnecessary things empty:
  * <img src=assets/asset5.png>
 
->Your browser will open for you to conenct the account of the drive you are trying to make:
+>Your browser will open for you to connect the account of the drive you are trying to make:
  * <img src=assets/asset6.png>
 
->Once given access it will succeed and you will need to return to cmd:
+>Once given access, it will succeed and you will need to return to cmd:
  * <img src=assets/asset7.png>
 
 >Once complete you can continue:
@@ -28,10 +28,10 @@
 >To start your rclone drive you type in :rclone mount --vfs-cache-mode full "Your Remote Drive Name:/" "empty drive letter:"
  * <img src=assets/asset10.png>
 
->After mounting your drive it will show up under This Pc:
+>After mounting your drive it will show up under This PC:
  * <img src=assets/asset11.png>
 
 ---
-⚠(note that when you close cmd the drive will close as well.)
+⚠ (note that when you close cmd the drive will close as well.)
 
 ---
