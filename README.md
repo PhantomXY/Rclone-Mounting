@@ -13,7 +13,7 @@ When you are done using your Storage System, you may safely close the command pr
 
 
 ## [Rclone Installation .bat](https://github.com/PhantomXY/Rclone-Mounting/blob/main/Rclone%20.Bat.md)
-* Guide to creating an automatic .bat that starts your Rclone Remote Drive
+* Guide to creating an automatic batch file that starts your Rclone Remote Drive
 
 
 ## [How to use/install Rclone](https://github.com/PhantomXY/Rclone-Mounting/blob/main/Installing%20Rclone.md)
